@@ -13,7 +13,7 @@ Find a freind with a Micro:Bit and tell them how to install it so your PetoByte 
 
 # Resources
 + Buy a BBC Micro:Bit - https://microbit.org/buy/where/
-+ Download the hex file - https://raw.githubusercontent.com/PetoByte/PetoByte/main/src/PetoByte.js
++ Download the hex file - https://raw.githubusercontent.com/PetoByte/PetoByte/main/PetoByte.hex
 + Look at the source code - https://github.com/PetoByte/PetoByte/blob/main/src/PetoByte.js
 
 # License & Copyright
