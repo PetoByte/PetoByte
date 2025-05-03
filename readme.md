@@ -18,5 +18,5 @@ Find a freind with a Micro:Bit and tell them how to install it so your PetoByte 
 
 # License & Copyright
 Veiw license here: https://github.com/PetoByte/PetoByte/blob/main/LICENSE
-Some copyrigth info off the bat:
+## Some copyright info off the bat:
 The MIT License allows anyone to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software. It requires that the original license and copyright notice be included in all copies or substantial portions of the software. The software is provided "as is", without warranty of any kind.
