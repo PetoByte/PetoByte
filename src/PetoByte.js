@@ -1,6 +1,6 @@
 function startGame () {
     isPlaying = true
-    // 0=Tag, 1=Hide&Seek
+    // 0=Tag, 1=Hide&Seek (this is real dogshit)
     game2 = Math.randomRange(0, 1)
     if (game2 == 0) {
         // Tag game
@@ -12,7 +12,7 @@ function startGame () {
             basic.showString("TAG! RUN!")
             radio.sendString("tag_run")
         }
-        // Tag gameplay
+        // Tag gameplay (becuase.)
         basic.pause(2000)
         if (isIt) {
             basic.showArrow(ArrowNames.North)
@@ -20,7 +20,7 @@ function startGame () {
             basic.showIcon(IconNames.Rabbit)
         }
     } else {
-        // Hide & Seek game
+        // Hide & Seek game (because)
         basic.showString("HIDE!")
         radio.sendString("hide")
         basic.showIcon(IconNames.House)
@@ -126,7 +126,7 @@ basic.forever(function () {
         } else {
             basic.showIcon(IconNames.Happy)
         }
-        // Update every 5 seconds
-        basic.pause(5000)
+        // Update every 2 seconds (this needs to happen.)
+        basic.pause(2000)
     }
 })
